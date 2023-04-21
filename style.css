@@ -124,13 +124,15 @@ table{
         font-size: 150%;
         font-weight: bold;
         color: #598392;
-        padding-left: 0;
+        padding-left: 7%;
     }
     .nombre{
+        padding-left: 12%;
         font-size: 100%;
         color: #124559;
     }
     .apellido{
+        padding-left: 11%;
         font-size: 150%;
         color: #124559;
     }
